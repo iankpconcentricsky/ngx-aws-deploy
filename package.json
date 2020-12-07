@@ -1,5 +1,6 @@
 {
   "name": "ngx-aws-deploy",
+  "version": "v2.1.0",
   "description": "Deploy rou Angular app to Amazon S3 directly from the Angular CLI",
   "dependencies": {},
   "devDependencies": {
